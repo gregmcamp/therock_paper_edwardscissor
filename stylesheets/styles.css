@@ -1,0 +1,24 @@
+body{
+  background-color: #757575;
+}
+
+
+h3{
+  text-align: center;
+  font-style: italic;
+  text-shadow: 0 0 5px #0000FF;
+  color: #ff1744;
+}
+
+h5{
+  text-align: center;
+  text-shadow: 0 0 5px #0000FF;
+  color: #ff1744;
+}
+
+img { height: 200px;
+}
+
+.display {
+  text-align: center;
+}
